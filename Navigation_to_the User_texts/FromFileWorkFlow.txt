@@ -1,0 +1,14 @@
+                                As you see from the 'Work Flow' menu you have five options!
+
+        In case you only want to import data to your Data base go directly to option 1 'Import Table to DataBase'
+
+          If you want to Visualize your data you have always to start from option 2  'Give Files and Plotting Samples'.
+	
+		            If you are ready for plotting option 3 will apear 'Plot Your Data'.
+
+                           
+
+ You can even personalize your plot by specifying x_axis, y_axis label  and title from option 4  'Personalize Your Last Plot'
+
+                       To plot additional plot choose option 5 'Plot Additional Samples'.
+

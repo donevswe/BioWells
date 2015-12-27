@@ -1,0 +1,8 @@
+ Before you start be sure, that your data files are in '.xlsx' format! If they are not, you could use our'File Converter'from bellow.
+ 
+
+               This software will help you to collect your 96 wells' data from different time points and
+
+           will represent the data with help of three different plots (Growing Curve, Bar Plot and Heat Map).
+
+                             Choose an option from bellow and follow the instructions!
