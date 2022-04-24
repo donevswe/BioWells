@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 27 16:07:07 2015
 
-@author: ev
+@author: evdo-umu
 """
 
 from pandas import ExcelWriter  # Importing the needed modules
